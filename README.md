@@ -58,8 +58,6 @@
 
         ./dock php php artisan db:seed
 
-1. Run command to seed 4000 notes each for 20 times
+1. Run command to seed 50000 First User Notes
 
     ./dock php php artisan db:seed --class=NoteTableSeeder
-
-        ./FakeNoteSeeder.sh
